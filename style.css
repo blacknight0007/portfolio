@@ -1,0 +1,47 @@
+.gradient-background {
+background: linear-gradient(300deg, #80BCBD, #F9F7C9, #AAD9BB);
+    background-size: 180% 180%;
+    animation: gradient-animation(5s ease infinite;
+    ) 
+}
+
+
+.first-container {
+    height: 700px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.text-container {
+    text-align: center;         
+    font-weight: bold;
+    font-family: serif;
+}
+
+img{
+    border-radius: 50%;
+}
+
+.card-text {
+    color: white;
+    font-weight: bolder;
+}
+
+#section2{
+    background-color:#f1f0cf;
+}
+
+.main{
+    background-color: #f1f0cf;
+}
+
+.card-body {
+    background-color:#856c6c
+}
+
+.card-title {
+    color: white;
+    text
+}
